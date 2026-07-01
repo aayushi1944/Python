@@ -1,4 +1,5 @@
 while True:
+    print("------menu------")
     print("\n\n1=> +")
     print("2=> -")
     print("3=> *")
